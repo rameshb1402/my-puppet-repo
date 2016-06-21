@@ -1,0 +1,2 @@
+# my-puppet-repo
+puppet
